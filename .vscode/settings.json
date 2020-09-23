@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2057e57c-8a54-4aba-a076-317bcd97b389/resourceGroups/Sam/providers/Microsoft.Web/sites/203259",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
